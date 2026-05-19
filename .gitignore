@@ -1,0 +1,30 @@
+# Data files
+data/raw/
+data/processed/
+
+# Saved models
+models/*.pkl
+models/*.joblib
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+
+# Environment variables
+.env
+
+# Pytest cache
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
